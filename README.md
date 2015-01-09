@@ -8,6 +8,7 @@
     1. http://localhost:1337 - Room listing page.
     2. http://localhost:1337/updateroom - Room updation page.
 7. change value from drop down, it will be reflected in Room listing page.
-8. <a href="http://www.youtube.com/watch?feature=player_embedded&v=vOeeDyUZaAg
-" target="_blank"><img src="http://img.youtube.com/vi/vOeeDyUZaAg/0.jpg" 
+8. Refer video for details
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vOeeDyUZaAg
+" target="_blank"><img src="http://img.youtube.com/vi/vOeeDyUZaAg/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /></a>
